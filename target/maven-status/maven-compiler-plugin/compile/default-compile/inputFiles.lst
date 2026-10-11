@@ -1,0 +1,11 @@
+C:\Users\IngSis\Downloads\lisw2_parcial01_MenesesJ\src\main\java\co\edu\unicauca\saberpro\Main.java
+C:\Users\IngSis\Downloads\lisw2_parcial01_MenesesJ\src\main\java\co\edu\unicauca\saberpro\model\Pregunta.java
+C:\Users\IngSis\Downloads\lisw2_parcial01_MenesesJ\src\main\java\co\edu\unicauca\saberpro\pipeline\FiltroEnunciado.java
+C:\Users\IngSis\Downloads\lisw2_parcial01_MenesesJ\src\main\java\co\edu\unicauca\saberpro\pipeline\FiltroExpresionesProhibidas.java
+C:\Users\IngSis\Downloads\lisw2_parcial01_MenesesJ\src\main\java\co\edu\unicauca\saberpro\pipeline\FiltroOpciones.java
+C:\Users\IngSis\Downloads\lisw2_parcial01_MenesesJ\src\main\java\co\edu\unicauca\saberpro\pipeline\IFiltroPregunta.java
+C:\Users\IngSis\Downloads\lisw2_parcial01_MenesesJ\src\main\java\co\edu\unicauca\saberpro\pipeline\ValidadorPipeline.java
+C:\Users\IngSis\Downloads\lisw2_parcial01_MenesesJ\src\main\java\co\edu\unicauca\saberpro\repository\IPreguntaRepository.java
+C:\Users\IngSis\Downloads\lisw2_parcial01_MenesesJ\src\main\java\co\edu\unicauca\saberpro\repository\PreguntaRepositoryImpl.java
+C:\Users\IngSis\Downloads\lisw2_parcial01_MenesesJ\src\main\java\co\edu\unicauca\saberpro\service\IPreguntaService.java
+C:\Users\IngSis\Downloads\lisw2_parcial01_MenesesJ\src\main\java\co\edu\unicauca\saberpro\service\PreguntaServiceImpl.java
